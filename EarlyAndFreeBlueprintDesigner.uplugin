@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
+	"FriendlyName": "Early & Free Blueprint Designer",
+	"Description": "Unlocks the Blueprint Designer and Blueprint usage from the start of the game",
+	"Category": "Modding",
+	"CreatedBy": "-Alejandro, Robb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.5.1",
+			"Enabled": true
+		}
+	]
+}
