@@ -11,9 +11,19 @@ _This mod currently maintained by Robb_
 
 _-Alejandro_
 
-After installing the mod, the Blueprint Designer and Blueprints tab of the build gun will be automatically unlocked for you, and the Blueprint Designer will cost nothing to place. Using a Blueprint to build something still costs its build cost, of course.
+After installing the mod, the 3 vanilla Blueprint Designers and Blueprints tab of the build gun will be automatically unlocked for you, and the Blueprint Designer will cost ~~nothing~~ (currently 1 Leaf to work around a vanilla bug) to place. Using a Blueprint to build something still costs its build cost, of course.
 
 If you uninstall the mod, you will still have access to the Designer building recipe (albeit changed back to its base-game cost) and you will retain access to Blueprint usage in the Build Gun.
+
+## Extensibility
+
+I may extend this mod to already support some popular blueprint designer mods out of the box in the future.
+
+If you are a mod developer and you have created some mods that add more Blueprint Designers,
+you can easily make this mod detect them by adding the
+`EarlyAndFreeBlueprintDesigner.MakeThisRecipeFree` Content Tag to your designer's recipe
+and `EarlyAndFreeBlueprintDesigner.GiveThisSchematic` to your designer's unlocking schematic.
+Learn about Content Tags in the [modding documentation](https://docs.ficsit.app/satisfactory-modding/latest/Development/ModLoader/ContentTagRegistry.html).
 
 ## Credits
 
