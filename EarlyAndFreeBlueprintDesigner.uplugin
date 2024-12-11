@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.3.0",
-	"SemVersion": "1.3.0",
+	"VersionName": "1.3.1",
+	"SemVersion": "1.3.1",
 	"FriendlyName": "Early & Free Blueprint Designer",
 	"Description": "Unlocks the Blueprint Designer and Blueprint usage from the start of the game",
 	"Category": "Modding",
@@ -22,5 +22,5 @@
 			"Enabled": true
 		}
 	],
-	"GameVersion": ">=365306"
+	"GameVersion": ">=383729"
 }
