@@ -1,6 +1,8 @@
 **Multiplayer compatible!**
 
-_This mod currently maintained by Robb_
+_This mod currently maintained by Robb._
+_If you enjoy my work, please consider my [completely optional tip jar](https://ko-fi.com/robb4)._
+
 
 ## Overview
 
@@ -11,9 +13,14 @@ _This mod currently maintained by Robb_
 
 _-Alejandro_
 
-After installing the mod, the 3 vanilla Blueprint Designers and Blueprints tab of the build gun will be automatically unlocked for you, and the Blueprint Designer will cost ~~nothing~~ (currently 1 Leaf to work around a vanilla bug) to place. Using a Blueprint to build something still costs its build cost, of course.
+After installing the mod,
+the 3 vanilla Blueprint Designers and Blueprints tab of the build gun will be automatically unlocked for you,
+and Blueprint Designers will cost nothing to place.
+Using a Blueprint to build something still costs its build cost, of course.
 
-If you uninstall the mod, you will still have access to the Designer building recipe (albeit changed back to its base-game cost) and you will retain access to Blueprint usage in the Build Gun.
+If you uninstall the mod, you will still have access to the Designer building recipe
+(albeit changed back to its base-game cost)
+and you will retain access to Blueprint usage in the Build Gun.
 
 ## Extensibility
 
